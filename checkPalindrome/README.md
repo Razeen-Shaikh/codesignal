@@ -28,7 +28,7 @@ Guaranteed constraints:
 
 `true` if `inputString` is a palindrome, `false` otherwise.
 
-**[JavaScript] Syntax Tips**
+### [JavaScript] Syntax Tips
 
 ```js
 // Prints help message to the console
